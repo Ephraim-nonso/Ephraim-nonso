@@ -4,13 +4,6 @@
 <!-- **Ephraim-nonso/Ephraim-nonso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
  -->
  
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ephraim-nonso&show_icons=true&theme=radical)       
- ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ephraim-nonso&theme=github_dark)
- [![Github](https://img.shields.io/github/followers/Ephraim-nonso?label=Follow&style=social)](https://github.com/Ephraim-nonso)
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ephraim-nonso&theme=tokyonight)
- ![](https://visitor-badge.laobi.icu/badge?page_id=Ephraim-nonso.Ephraim-nonso)
-
-
 Here are some ideas to get you started:
 
 - 🔭 I’m a <em>Smart Contract Developer, acquainting myself with blockchain technologies.</em>
@@ -28,6 +21,12 @@ Here are some ideas to get you started:
  <a href="mailto:chukwuchinonsoephraim@gmail.com"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="gmail" height="40" style="vertical-align:top; margin:4px"></a>
 </p>
  
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ephraim-nonso&show_icons=true&theme=radical)       
+ ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ephraim-nonso&theme=github_dark)
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ephraim-nonso&theme=tokyonight)
+  [![Github](https://img.shields.io/github/followers/Ephraim-nonso?label=Follow&style=social)](https://github.com/Ephraim-nonso)
+ ![](https://visitor-badge.laobi.icu/badge?page_id=Ephraim-nonso.Ephraim-nonso)
+
 
 <!-- - ⚡ Fun fact:  -->
 
