@@ -1,4 +1,6 @@
-### Hi there 👋 Ephraim is the name.
+### Hi there. 👋 
+
+### Ephraim, here.
 
 <hr/>
 <!-- **Ephraim-nonso/Ephraim-nonso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -9,7 +11,7 @@ Here are some ideas to get you started:
 - 🔭 I’m a <em>Smart Contract Developer, acquainting myself with blockchain technologies.</em>
 - 🌱 <h3>Read. Code. Sleep. Love everything about web3 and its emerging technologies.
 <hr/>
-- 👯 I’m looking to collaborate on projects that will aid in building my skills. 
+- 👯 I’m looking to collaborate on web3 projects. 
 - <hr/>
 <!-- - 🤔 I’m looking for help with ... -->
 <!-- - 💬 Ask me about ... -->
@@ -21,9 +23,12 @@ Here are some ideas to get you started:
  <a href="mailto:chukwuchinonsoephraim@gmail.com"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="gmail" height="40" style="vertical-align:top; margin:4px"></a>
 </p>
  
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ephraim-nonso&show_icons=true&theme=radical)       
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ephraim-nonso&show_icons=true&theme=radical)     
+ <br>
  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ephraim-nonso&theme=github_dark)
+ <br>
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ephraim-nonso&theme=tokyonight)
+ <br>
   [![Github](https://img.shields.io/github/followers/Ephraim-nonso?label=Follow&style=social)](https://github.com/Ephraim-nonso)
  ![](https://visitor-badge.laobi.icu/badge?page_id=Ephraim-nonso.Ephraim-nonso)
 
