@@ -18,9 +18,9 @@ Here are some ideas to get you started:
 📫 How to reach me: 
  <br>
  <p align="left">
-<a href="https://twitter.com/iamephraim_js"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.js" alt="twitter" height="40" style="vertical-align:top; margin:4px"></a>
- <a href="https://linkedin.com/in/chukwu-ephraim-chinonso" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="linkedin" height="40" style="vertical-align:top; margin:4px"></a>
- <a href="mailto:chukwuchinonsoephraim@gmail.com"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="gmail" height="40" style="vertical-align:top; margin:4px"></a>
+<a href="https://twitter.com/iamephraim_js"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" alt="twitter" height="40" style="vertical-align:top; margin:4px; color: blue"></a>
+ <a href="https://linkedin.com/in/chukwu-ephraim-chinonso" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="linkedin" height="40" style="vertical-align:top; margin:4px ; color: red"></a>
+ <a href="mailto:chukwuchinonsoephraim@gmail.com"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="gmail" height="40" style="vertical-align:top; margin:4px; color: red"></a>
 
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ephraim-nonso&show_icons=true&theme=radical)     
  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ephraim-nonso&theme=github_dark)
