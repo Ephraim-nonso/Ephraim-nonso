@@ -43,8 +43,3 @@ About Me:
   [![Github](https://img.shields.io/github/followers/Ephraim-nonso?label=Follow&style=social)](https://github.com/Ephraim-nonso)
  ![](https://visitor-badge.laobi.icu/badge?page_id=Ephraim-nonso.Ephraim-nonso)
  </p>
- 
-
-<!-- - ⚡ Fun fact:  -->
-## 😂 Here is a random joke that'll make you laugh!
-![Jokes Card](https://readme-jokes.vercel.app/api)
