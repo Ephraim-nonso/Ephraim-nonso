@@ -9,6 +9,4 @@
 
  <br>
  <br>
-  [![Github](https://img.shields.io/github/followers/Ephraim-nonso?label=Follow&style=social)](https://github.com/Ephraim-nonso)
- ![](https://visitor-badge.laobi.icu/badge?page_id=Ephraim-nonso.Ephraim-nonso)
  </p>
