@@ -9,7 +9,6 @@
      
  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ephraim-nonso&theme=github_dark)
  <br>
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ephraim-nonso)](https://github.com/Ephraim-nonso/github-readme-stats)
  <br>
   [![Github](https://img.shields.io/github/followers/Ephraim-nonso?label=Follow&style=social)](https://github.com/Ephraim-nonso)
  ![](https://visitor-badge.laobi.icu/badge?page_id=Ephraim-nonso.Ephraim-nonso)
