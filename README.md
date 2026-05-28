@@ -1,13 +1,19 @@
-### Hi there. 👋 
+# Ephraim - Smart Contract Security Researcher
 
-- <hr/>
+I have worked as a Smart Contract Auditor at QuillAudits, reviewing protocol logic and critical code paths across DeFi systems. Currently, I'm exploring competitive audit contests and bug bounty hunting, where I specialize in identifying high-impact vulnerabilities in smart contract protocols.
 
- <br>
- <p align="left">
-  <!-- <a>📫 How to reach me: </a> -->
- <!-- <a href="https://linkedin.com/in/chukwu-ephraim-chinonso" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="linkedin" height="40" style="vertical-align:top; margin:4px ; color: '#0A66C2'"></a>
- <a href="mailto:chukwuchinonsoephraim@gmail.com"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="gmail" height="40" style="vertical-align:top; margin:4px; color: red"></a> -->
+## Audit Profiles
 
- <br>
- <br>
- </p>
+- Sherlock: https://audits.sherlock.xyz/watson/iamephraim
+- Code4rena: https://code4rena.com/@Ephraim
+- Cyfrin: https://profiles.cyfrin.io/u/iamephraim
+
+## Team Competitions
+
+- Code4rena Team (VulnSeekers): https://code4rena.com/@VulnSeekers
+- CodeHawks Team (VulnSeekers): https://codehawks.cyfrin.io/team/cm9r226pp0001k104w1686ifb
+
+## Bug Bounty Platforms
+
+- Immunefi
+- HackenProof
